@@ -24,6 +24,18 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
+       #Developed by BARATHRAJ K (212224230033)
        # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+<img width="1653" height="1044" alt="image" src="https://github.com/user-attachments/assets/faea3123-c324-4f92-8f41-1e0e64eccaf7" />
+<img width="1640" height="1272" alt="image" src="https://github.com/user-attachments/assets/4908e787-9c19-4fc3-a8b5-b1aa01a9db0e" />
+<img width="1640" height="841" alt="image" src="https://github.com/user-attachments/assets/9d4dfc69-4ff9-4255-9d21-b6f895832400" />
+<img width="1644" height="773" alt="image" src="https://github.com/user-attachments/assets/2f45cf29-9108-4a7b-aba6-8586fecf9742" />
+<img width="1642" height="829" alt="image" src="https://github.com/user-attachments/assets/3615b124-1ce0-466b-bc50-f1e7d84f7369" />
+<img width="1645" height="1343" alt="image" src="https://github.com/user-attachments/assets/e6eb3823-31e9-4ee3-9136-1c668f885ddf" />
+<img width="1644" height="1039" alt="image" src="https://github.com/user-attachments/assets/cc3c3c90-b899-48b3-8706-067711b8e16b" />
+<img width="1634" height="1155" alt="image" src="https://github.com/user-attachments/assets/21cbf883-2027-4a6d-888c-d0b07bc5bbdb" />
+<img width="1637" height="713" alt="image" src="https://github.com/user-attachments/assets/00f0dac5-0bd9-43bd-a0bc-45ed2bcf1b4c" />
+
+       
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+       Thus we have successfully performed Feature Scaling and Feature Selection on the given data.
